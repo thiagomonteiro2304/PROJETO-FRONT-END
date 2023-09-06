@@ -1,0 +1,35 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color: green;
+}
+
+.container{
+    padding: 0px 50px;
+}
+
+.btn{
+    padding: 10px 8px;
+    width: 50px;
+    color: white;
+    background: green;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background: rgb(0, 253, 0);
+    transition: background 1s;
+}
+
+.link_contato{
+    text-decoration: none;
+}
+
